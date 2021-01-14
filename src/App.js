@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import AutoTextEffect from './components/AutoTextEffect'
 
 const App = () => {
-  return <placeholder />
+  return <AutoTextEffect />
 }
 
 export default App
